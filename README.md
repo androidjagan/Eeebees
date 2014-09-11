@@ -1,7 +1,7 @@
 Eeebees
 =======
 
-This sample file contains about Eeebees configuration
+This sample file contains about Eeebees configuration<br>
 1. Install Netbeans
 2. Install java
 3. Un-install operating system
